@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer · Full-stack & AI integrations · Algiers 🇩🇿</h3>
 
 <p align="center">
-  <a href="https://hamzakhalem.pages.dev"><img src="https://img.shields.io/badge/Portfolio-hamzakhalem.pages.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/hamza-khalem-436b29201/"><img src="https://img.shields.io/badge/LinkedIn-Hamza%20Khalem-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@hoh_112"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:hamzakhalem97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:hamzakhalem97@gmail.com"><img src="assets/buttons/email.svg" height="44" alt="Email me"></a>&nbsp;
+  <a href="https://hamzakhalem.pages.dev"><img src="assets/buttons/portfolio.svg" height="44" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hamza-khalem-436b29201/"><img src="assets/buttons/linkedin.svg" height="44" alt="LinkedIn"></a>&nbsp;
+  <a href="https://medium.com/@hoh_112"><img src="assets/buttons/medium.svg" height="44" alt="Medium"></a>
 </p>
 
 I build web platforms and the AI features that run inside them.
@@ -75,15 +75,23 @@ An Arabic-first library for university resources. It imports Google Drive folder
 I also make short tech videos in **Algerian Darija** to help local developers and students learn.
 
 <p>
-  <a href="https://www.tiktok.com/@wzrtech"><img src="https://img.shields.io/badge/TikTok-@wzrtech-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="https://www.instagram.com/wzrtech/"><img src="https://img.shields.io/badge/Instagram-@wzrtech-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://facebook.com/WZRTECH"><img src="https://img.shields.io/badge/Facebook-WZRTECH-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.tiktok.com/@wzrtech"><img src="assets/buttons/tiktok.svg" height="38" alt="TikTok @wzrtech"></a>&nbsp;
+  <a href="https://www.instagram.com/wzrtech/"><img src="assets/buttons/instagram.svg" height="38" alt="Instagram @wzrtech"></a>&nbsp;
+  <a href="https://facebook.com/WZRTECH"><img src="assets/buttons/facebook.svg" height="38" alt="Facebook WZRTECH"></a>
 </p>
 
 ## 🎓 Background
 
 - **Master's in Intelligent Computer Systems**, University of Algiers 1
 - **Languages:** Arabic · French (B2) · English
+
+## 📫 Let's talk
+
+Hiring, a freelance project, or a question about one of my repos? I answer every email.
+
+<p align="center">
+  <a href="mailto:hamzakhalem97@gmail.com"><img src="assets/buttons/email-cta.svg" height="56" alt="Let's work together, email me"></a>
+</p>
 
 ---
 
